@@ -1,0 +1,7 @@
+{
+  "name": "FridgeChef",
+  "description": "Intelligent cook-with-what-you-have recipe generator finding meals based on your fridge ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
